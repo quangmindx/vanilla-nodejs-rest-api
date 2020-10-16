@@ -1,0 +1,65 @@
+[{
+    "_id": {
+      "$oid": "1"
+    },
+    "name": "Margherita",
+    "image": "pizza.png",
+    "price": "250",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "2"
+    },
+    "name": "Marinara",
+    "image": "pizza.png",
+    "price": "300",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "3"
+    },
+    "name": "Carbonara",
+    "image": "pizza.png",
+    "price": "200",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "4"
+    },
+    "name": "Americana",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "large"
+  },{
+    "_id": {
+      "$oid": "5"
+    },
+    "name": "Chicken Mushroom",
+    "image": "pizza.png",
+    "price": "350",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "6"
+    },
+    "name": "Paneer pizza",
+    "image": "pizza.png",
+    "price": "200",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "7"
+    },
+    "name": "Vegies pizza",
+    "image": "pizza.png",
+    "price": "600",
+    "size": "large"
+  },{
+    "_id": {
+      "$oid": "8"
+    },
+    "name": "Pepperoni",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "medium"
+  }]
